@@ -13,7 +13,7 @@ nav {
     text-align: center;
 }
 
-.section-discreption {
+.section-description {
     color: #757575;
     text-align: center;
     font-size: 18px;
@@ -103,7 +103,7 @@ nav a {
     margin-bottom: 20px;
 }
 
-.banner-discreption {
+.banner-description {
     margin-bottom: 30px;
 
 }
@@ -128,6 +128,9 @@ main{
 .about-info{
     text-align: center;
 }
-.about-description{
-    text-decoration: none;
+#what-i-do-description{
+    padding: 30px 150px;
 }
+
+
+
